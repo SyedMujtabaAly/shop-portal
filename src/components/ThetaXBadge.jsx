@@ -1,0 +1,1 @@
+export default function ThetaXBadge({ className = '' }) { return <div className={`theta-badge ${className}`.trim()}><span className="theta-badge__text">Shopkeeper</span><span className="theta-badge__caption">Secure business portal</span></div>; }
